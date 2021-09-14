@@ -1,0 +1,9 @@
+name: BannSystem
+version: 1.0
+main: de.pixel.bannsystem.main.BannSystem
+
+commands:
+    ban:
+     description: Ban a player for a specific time period, 0s stands for permanent
+    unban:
+     description: Unban a banned player

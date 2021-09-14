@@ -1,0 +1,22 @@
+
+##Messages
+
+messages:
+    nopermissions: "&cyou do not have permission for that"
+    incorrecttime: "&cthere is something wrong with the time you chose. as example 60s would stand for 60 seconds."
+    playernotfound: "&cPlayer not found."
+    bancommandusage: "&6Usage: &7/ban <Player> <Time + d/h/m/s>"
+    unbancommandusage: "&6Usage: &7/unban <Player>"
+    banplayer: "&cyou banned player %Player% until %Date%"
+    playerbanned: "&cyou are banned until %Date%"
+    playerunbanned: "&cyou unbanned %Player%"
+    playerbannedpermanent: "&cyou are permanently banned"
+    dateformat: "MM/dd/yyyy hh:mm:ss"
+    
+##Permissions
+
+permissions:
+    ban: "bannsystem.ban"
+    unban: "bannsystem.unban"
+    overallperm: "bannsystem.*"
+    
